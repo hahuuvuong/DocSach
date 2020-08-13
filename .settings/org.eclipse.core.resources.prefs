@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/favbook.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/single-book.jsp=UTF-8
+encoding//src/ebook/DAO/SachDAO.java=UTF-8
+encoding//src/ebook/controller/ChuongSachController.java=UTF-8
+encoding//src/ebook/controller/SachController.java=UTF-8
+encoding//src/ebook/controller/TruyenController.java=UTF-8
+encoding//src/ebook/controller/favBookController.java=UTF-8
+encoding//src/ebook/entity/Sach.java=UTF-8
